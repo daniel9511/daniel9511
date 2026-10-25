@@ -4,8 +4,8 @@
 
 Hola, soy Daniel. Trabajo todos los días con Databricks y Python, y en el tiempo libre armo herramientas que me resuelven problemas reales: las del salón de mi pareja, las de mi casa y las de mi PC.
 
-> ▸ **JUGADOR 1** · Ingeniero de datos senior
-> ▸ **MODO ACTUAL** · Armar herramientas que alguien sin código pueda usar
+> ▸ **JUGADOR 1** · Ingeniero de datos senior  
+> ▸ **MODO ACTUAL** · Armar herramientas que alguien sin código pueda usar  
 > ▸ **FUERA DE TURNO** · Juegos retro y cacharrear hardware
 
 Lo que más me gusta es que los datos queden ordenados y que los pipelines no se rompan en silencio.
