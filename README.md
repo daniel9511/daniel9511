@@ -12,11 +12,39 @@ Lo que más me gusta es que los datos queden ordenados y que los pipelines no se
 
 ## ▸ Con qué trabajo
 
-- **Datos:** Databricks (PySpark, Spark SQL, Unity Catalog), arquitectura Medallion, Azure Data Factory
-- **Lenguajes:** Python, SQL, algo de Bash
-- **Apps y herramientas:** Flask, Gradio, EasyOCR, PyInstaller
-- **Modelos locales:** Ollama y ROCm en hardware AMD
-- **Asistentes y agentes:** Claude Code con reglas, skills y memoria por proyecto
+Empecé automatizando tareas con Python y RPA, pasé por Azure y hoy construyo plataformas de datos en Databricks.
+
+**Lakehouse y gobierno**
+`Databricks` `Unity Catalog` `Delta Lake` `Arquitectura Medallion` `Genie Agents`
+
+**Procesamiento y modelado**
+`PySpark` `Spark SQL` `SQL Server` `Azure Synapse` `Parquet` `Modelado dimensional`
+
+**Ingesta e integración**
+`Azure Data Factory` `SHIR` `Logic Apps` `Azure Key Vault` `SAP` `Denodo` `APIs` `Excel`
+
+**Lenguajes y librerías**
+`Python` `SQL` `Bash` · Pandas, Scikit-learn, OpenCV, Requests
+
+**BI y automatización**
+`Power BI` `Power Automate`
+
+**Entrega y control de versiones**
+`Azure DevOps` `Git` `GitHub` `AWS`
+
+**IA aplicada al desarrollo**
+`Claude Code` `MCP` `Subagentes` `Spec-driven development` · Modelos locales con `Ollama` y `ROCm`
+
+**Apps y herramientas propias**
+`Flask` `Gradio` `EasyOCR` `PyInstaller`
+
+### Cómo lo aplico
+
+- Capas Bronze, Silver y Gold con contratos de granularidad entre ellas y manejo de vigencias en el tiempo.
+- Calidad de datos con trazabilidad: cada regla que falla dice qué columna, qué registro y en qué capa.
+- Validación de volúmenes y curvas históricas entre ambientes antes de pasar a producción.
+- Accesos, linaje y metadatos gobernados desde Unity Catalog.
+- Desarrollo asistido por IA con reglas y skills versionadas, y lo determinista resuelto en Python y shell, no en el modelo.
 
 ## ▸ Lo que tengo publicado
 
